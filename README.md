@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">时常关注动态 😄</h2><a id="user-content-时常关注动态-speech_balloon" class="anchor" aria-label="Permalink: 时常关注动态 :speech_balloon:、" href="#时常关注动态-speech_balloon"></a></div>
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spring-projects&repo=spring-boot)](https://github.com/spring-projects/spring-boot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtdvio&repo=every-programmer-should-know)](https://github.com/mtdvio/every-programmer-should-know)
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=collabnix&repo=kubetools)](https://github.com/collabnix/kubetools)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nubenetes&repo=awesome-kubernete)](https://github.com/nubenetes/awesome-kubernete)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nubenetes&repo=awesome-kubernetes)](https://github.com/nubenetes/awesome-kubernetes)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mstrYoda&repo=awesome-istio)](https://github.com/mstrYoda/awesome-istio)
 

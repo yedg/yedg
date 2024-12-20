@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">统计信息 ✨</h2><a id="user-content-统计信息-information_desk_person" class="anchor" aria-label="Permalink: 统计信息 :information_desk_person:" href="#统计信息-information_desk_person"></a></div>
-
-![Anurag's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yedg&show_icons=true&count_private=true&theme=aura)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yedg&layout=compact&card_width=400&locale=cn&theme=aura)
-
-![](https://github-readme-stats.vercel.app/api?username=yedg&show_icons=true&theme=radical&locale=cn)
+## 统计信息 ✨
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedg&layout=compact&card_width=400&locale=cn&theme=aura)](https://github.com/anuraghazra/github-readme-stats) <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yedg&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yedg&theme=react)
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">时常关注动态 😄</h2><a id="user-content-时常关注动态-speech_balloon" class="anchor" aria-label="Permalink: 时常关注动态 :speech_balloon:、" href="#时常关注动态-speech_balloon"></a></div>
-
+## 时常关注动态 😄
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spring-projects&repo=spring-boot)](https://github.com/spring-projects/spring-boot)
 

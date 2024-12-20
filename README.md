@@ -73,5 +73,4 @@ Here are some ideas to get you started:
 <li>Grafana <a href="https://github.com/grafana">Grafana</a></li>
 <li>关于计算机的论文 <a href="https://github.com/papers-we-love/papers-we-love">论文</a></li>
 <li>深度学习 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">深度学习</a></li>
-<li>国际新闻 <a href="https://github.com/dutymachine/news">国际新闻</a></li>
 </ul>

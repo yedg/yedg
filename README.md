@@ -53,3 +53,25 @@ Here are some ideas to get you started:
 <a href="https://github.com/knownsec/404StarLink"><img src="https://camo.githubusercontent.com/6954fbbee43b0aaa9f12fed29586761b308b51cbe748816e5bbed3e52d472559/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6b6e6f776e736563267265706f3d343034537461724c696e6b" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=knownsec&amp;repo=404StarLink" style="max-width: 100%;"></a>
 <a href="https://github.com/agile6v/awesome-nginx"><img src="https://camo.githubusercontent.com/e3793878ad4763e1b83e5bd480f8a62b09a2811a2829533aea580f839b86a155/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6167696c653676267265706f3d617765736f6d652d6e67696e78" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=agile6v&amp;repo=awesome-nginx" style="max-width: 100%;"></a>
 <a href="https://github.com/zoidbergwill/awesome-ebpf"><img src="https://camo.githubusercontent.com/e9960485823e099ff7e62e56ca651c1a466b920ff404d4878e4b0b3ce67c6c8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7a6f69646265726777696c6c267265706f3d617765736f6d652d65627066" alt="Readme Card" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=zoidbergwill&amp;repo=awesome-ebpf" style="max-width: 100%;"></a></p>
+
+
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">经常逛这里 🌎</h2><a id="user-content-经常逛这里-earth_americas" class="anchor" aria-label="Permalink: 经常逛这里 :earth_americas:" href="#经常逛这里-earth_americas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<ul dir="auto">
+<li>云原生 <a href="https://www.cncf.io" rel="nofollow">CNCF</a></li>
+<li>Linux 基金会 <a href="https://www.linuxfoundation.org" rel="nofollow">LinuxFoundation</a></li>
+<li>Hacker News <a href="https://thehackernews.com" rel="nofollow">The Hacker News</a></li>
+<li>Spring-Projects <a href="https://github.com/spring-projects">Spring-Projects</a></li>
+<li>FastAPI <a href="https://github.com/fastapi">FastAPI</a></li>
+<li>Gin-Gonic <a href="https://github.com/gin-gonic">Gin-Gonic</a></li>
+<li>Meta <a href="https://github.com/facebook">Meta</a></li>
+<li>Microsoft <a href="https://github.com/microsoft">Microsoft</a></li>
+<li>Kubernetes <a href="https://github.com/kubernetes">Kubernetes</a></li>
+<li>Istio <a href="https://github.com/istio">Istio</a></li>
+<li>Docker <a href="https://github.com/docker">Docker</a></li>
+<li>Prometheus <a href="https://github.com/prometheus">Prometheus</a></li>
+<li>Grafana <a href="https://github.com/grafana">Grafana</a></li>
+<li>关于计算机的论文 <a href="https://github.com/papers-we-love/papers-we-love">论文</a></li>
+<li>深度学习 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">深度学习</a></li>
+<li>国际新闻 <a href="https://github.com/dutymachine/news">国际新闻</a></li>
+</ul>

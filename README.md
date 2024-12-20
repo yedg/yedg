@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">统计信息 ✨</h2><a id="user-content-统计信息-information_desk_person" class="anchor" aria-label="Permalink: 统计信息 :information_desk_person:" href="#统计信息-information_desk_person"></a></div>
 
+![Anurag's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yedg&show_icons=true&count_private=true&theme=aura)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yedg&layout=compact&card_width=400&locale=cn&theme=aura)
 
 ![](https://github-readme-stats.vercel.app/api?username=yedg&show_icons=true&theme=radical&locale=cn)
@@ -82,23 +84,29 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agile6v&repo=awesome-nginx)](https://github.com/agile6v/awesome-nginx)
 
+## 常常用以下解决方案  :mag:
+- Kubernetes/Istio/Prometheus/Grafana
+- SpringBoot/SpringCloud
+- Argo CD/Argo Workflows/Tekton
+- Python/Go
 
-<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">经常逛这里 🌎</h2><a id="user-content-经常逛这里-earth_americas" class="anchor" aria-label="Permalink: 经常逛这里 :earth_americas:" href="#经常逛这里-earth_americas"></a></div>
+## 经常逛这里 :earth_americas:
 
-<ul dir="auto">
-<li>云原生 <a href="https://www.cncf.io" rel="nofollow">CNCF</a></li>
-<li>Linux 基金会 <a href="https://www.linuxfoundation.org" rel="nofollow">LinuxFoundation</a></li>
-<li>Hacker News <a href="https://thehackernews.com" rel="nofollow">The Hacker News</a></li>
-<li>Spring-Projects <a href="https://github.com/spring-projects">Spring-Projects</a></li>
-<li>FastAPI <a href="https://github.com/fastapi">FastAPI</a></li>
-<li>Gin-Gonic <a href="https://github.com/gin-gonic">Gin-Gonic</a></li>
-<li>Meta <a href="https://github.com/facebook">Meta</a></li>
-<li>Microsoft <a href="https://github.com/microsoft">Microsoft</a></li>
-<li>Kubernetes <a href="https://github.com/kubernetes">Kubernetes</a></li>
-<li>Istio <a href="https://github.com/istio">Istio</a></li>
-<li>Docker <a href="https://github.com/docker">Docker</a></li>
-<li>Prometheus <a href="https://github.com/prometheus">Prometheus</a></li>
-<li>Grafana <a href="https://github.com/grafana">Grafana</a></li>
-<li>关于计算机的论文 <a href="https://github.com/papers-we-love/papers-we-love">论文</a></li>
-<li>深度学习 <a href="https://github.com/labmlai/annotated_deep_learning_paper_implementations">深度学习</a></li>
-</ul>
+- 云原生 [CNCF](https://www.cncf.io) 
+- Linux 基金会 [LinuxFoundation](https://www.linuxfoundation.org)
+- Hacker News [The Hacker News](https://thehackernews.com)
+- Spring-Projects [Spring-Projects](https://github.com/spring-projects)
+- FastAPI [FastAPI](https://github.com/fastapi)
+- Gin-Gonic [Gin-Gonic](https://github.com/gin-gonic)
+- Meta [Meta](https://github.com/facebook)
+- Microsoft [Microsoft](https://github.com/microsoft)
+- Kubernetes [Kubernetes](https://github.com/kubernetes)
+- Istio [Istio](https://github.com/istio)
+- Docker [Docker](https://github.com/docker)
+
+- Prometheus [Prometheus](https://github.com/prometheus)
+- Grafana [Grafana](https://github.com/grafana)
+- 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
+- 深度学习 [深度学习](https://github.com/docker)
+- Docker [Docker](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+

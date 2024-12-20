@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+常用语言占比统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yedg&layout=compact&theme=tokyonight)

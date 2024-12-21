@@ -77,3 +77,17 @@ Here are some ideas to get you started:
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
 - 深度学习 [深度学习](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
+<!-- 
+https://github.com/weolwo/jvm-learn
+https://github.com/iluwatar/java-design-patterns
+https://github.com/huiGod/netty_lecture
+https://github.com/dk-lockdown/USTC-Course
+https://github.com/ruanyf/free-books
+https://github.com/woooowen/iBooks
+https://github.com/0voice/expert_readed_books
+https://github.com/xzlaptt/React
+https://github.com/woodylan/go-websocket
+https://github.com/yaochangTan/LinuxLearning
+https://github.com/JS-banana/webpack-react-ts
+https://github.com/chenpkg/cmbsm2
+ -->

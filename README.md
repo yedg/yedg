@@ -75,6 +75,5 @@ Here are some ideas to get you started:
 - Prometheus [Prometheus](https://github.com/prometheus)
 - Grafana [Grafana](https://github.com/grafana)
 - 关于计算机的论文 [论文](https://github.com/papers-we-love/papers-we-love)
-- 深度学习 [深度学习](https://github.com/docker)
-- Docker [Docker](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- 深度学习 [深度学习](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
